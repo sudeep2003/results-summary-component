@@ -148,7 +148,7 @@ body{
 }
 
 button{
-    background-color: var(--Cobalt-blue);
+    background-color: var(--Dark_gray_blue);
     outline: none;
     border: none;
     border-radius: 30%;
@@ -192,15 +192,10 @@ footer {
 
 @media only screen and (min-width: 650px) {
     button:hover{
-        background-color: var(--Dark_gray_blue);
+        background-color: var(--Cobalt-blue);
     }
     .container{
         height: 100vh;
-    }
-}
-@media only screen and (max-width: 450px) {
-    button{
-        background-color: var(--Dark_gray_blue);
     }
 }
 @media only screen and (max-width: 450px) {
