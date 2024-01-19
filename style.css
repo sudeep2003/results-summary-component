@@ -198,7 +198,7 @@ footer {
         height: 100vh;
     }
 }
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 450px) {
     button{
         background-color: var(--Dark_gray_blue);
     }
