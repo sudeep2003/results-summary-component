@@ -31,8 +31,8 @@ For the Frontend Mentor Results summary component challenge, I created a Results
 
 ### Links
 
-- Solution URL: [https://github.com/sudeep2003/blog-preview-card.git](https://github.com/sudeep2003/blog-preview-card.git)
-- Live Site URL: [https://sudeep2003.github.io/blog-preview-card](https://sudeep2003.github.io/blog-preview-card)
+- Solution URL: [https://github.com/sudeep2003/results-summary-component.git](https://github.com/sudeep2003/results-summary-component.git)
+- Live Site URL: [https://sudeep2003.github.io/results-summary-component](https://sudeep2003.github.io/results-summary-component)
 
 ### Built with
 
